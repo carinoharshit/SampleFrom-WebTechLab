@@ -1,3 +1,3 @@
-# Validation form using JS
+### Design HTML form for keeping student record & validate it using JavaScript.
 ### Click below link to view...
 ## https://carinoharshit.github.io/SampleFrom-WebTechLab/
